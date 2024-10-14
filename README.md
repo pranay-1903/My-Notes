@@ -3,7 +3,7 @@ This README.md file provides an overview of the Notes App, a user-friendly appli
 <h1> Notes App </h1>
 <br>
 <p>
-  A simple and efficient note-taking application designed to help you organize your thoughts and ideas. Easily create, edit, and manage notes, categorize them for better organization, and stay productive.
+  A simple and efficient note-taking application designed to help you organize your thoughts and ideas. Easily create, and manage notes for better organization, and stay productive.
 </p>
 <br>
 <p>
