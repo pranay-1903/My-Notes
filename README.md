@@ -11,7 +11,7 @@ This README.md file provides an overview of the Notes App, a user-friendly appli
   <ol>
     <li> Make sure you have Node.js installed in your pc. </li>
     <li> Instal all Dependencies from package.json. Use command : npm install </li>
-    <li> Run command npm start, to run this application on server.</li>
+    <li> Run command npm start, to run this application on your Local server.</li>
   </ol>
 </p>
 <br>
